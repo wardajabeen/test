@@ -1,0 +1,18 @@
+.mein{
+    color: rgb(92, 5, 57);
+        background-image: url(https://images.unsplash.com/photo-1472214103451-9374bd1c798e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8cGljfGVufDB8fDB8&ixlib=rb-1.2.1&w=1000&q=80) ;
+    border: 100px solid crimson;
+    text-align:center;
+    text-shadow: rgb(255, 89, 23) 2px 2px 5px;
+    text-align: inline;
+    font-weight: bold;
+    line-height: 3em;
+    text-decoration: underline;
+    text-overflow: clip;
+
+    }
+    
+    
+    .txt{
+        text-decoration: inline;
+    }
